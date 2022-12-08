@@ -1,1 +1,1 @@
-# usyd
+# usyd USyd twitter feed
